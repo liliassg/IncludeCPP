@@ -116,11 +116,11 @@ PUBLIC(
 
     gamekit CLASS(Sprite) {
         CONSTRUCTOR()
-        FIELD(Transform, transform)
-        FIELD(Rect, source_rect)
-        FIELD(Color, tint)
-        FIELD(bool, visible)
-        FIELD(int, texture_id)
+        FIELD(transform)
+        FIELD(source_rect)
+        FIELD(tint)
+        FIELD(visible)
+        FIELD(texture_id)
         METHOD(setPosition)
         METHOD(setRotation)
         METHOD(setScale)
