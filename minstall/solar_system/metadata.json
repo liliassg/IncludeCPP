@@ -1,0 +1,11 @@
+{
+  "name": "solar_system",
+  "author": "NULLEX",
+  "version": "1.0.0",
+  "dependencies": [],
+  "files": [
+    "solar_system.cp",
+    "solar_system.cpp",
+    "solar_system_sim.py"
+  ]
+}
