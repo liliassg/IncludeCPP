@@ -1,4 +1,4 @@
-# IncludeCPP
+# IncludeCpp
 
 Professional C++ ↔ Python binding system with type-generic templates and native threading support.
 
