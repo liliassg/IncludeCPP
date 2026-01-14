@@ -215,10 +215,8 @@ includecpp <command> --help
 ## Experimental Features
 
 IncludeCPP also includes experimental features that are still in development:
-
-- **CSSL** - A scripting language for runtime code manipulation
 - **AI Commands** - OpenAI-powered code analysis (`includecpp ai`)
-- **CPPY** - Python to C++ conversion (`includecpp cppy`)
+- **CPPY** - Python to C++ conversion (`includecpp cppy`) ~83.2% Accuracy, use --ai flag for 100.0%
 
 These are hidden by default. To enable them:
 
